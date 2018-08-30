@@ -1,0 +1,6 @@
+framework module MWeng_HomeModule {
+  umbrella header "MWeng_HomeModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

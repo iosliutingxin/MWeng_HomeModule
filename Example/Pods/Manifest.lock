@@ -1,0 +1,16 @@
+PODS:
+  - MWeng_HomeModule (0.1.0)
+
+DEPENDENCIES:
+  - MWeng_HomeModule (from `../`)
+
+EXTERNAL SOURCES:
+  MWeng_HomeModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MWeng_HomeModule: 40e6cb74e87422bbd798192a60e820a29cfee366
+
+PODFILE CHECKSUM: 15f00500b5469d28b7391fa4b3098c4f428fb697
+
+COCOAPODS: 1.4.0
