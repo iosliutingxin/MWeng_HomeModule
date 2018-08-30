@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MWeng_HomeModule_Example' do
+  pod 'MWeng_HomeModule', :path => '../'
+
+  target 'MWeng_HomeModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
